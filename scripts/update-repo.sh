@@ -11,7 +11,7 @@ echo ""
 
 # 1 - Navigate to the repository folder
 
-    cd ~/personal
+    cd ~/Personal
 
 # 2 - Update the git index
 

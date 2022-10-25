@@ -30,7 +30,7 @@
         echo ""
         echo "Enter your password to start the building process"
         echo ""
-        sudo mkarchiso -v -w ~/work -o ~/ISOs ~/personal/iso/releng
+        sudo mkarchiso -v -w ~/work -o ~/ISOs ~/Personal/iso/releng
 
     ;;
 
@@ -40,7 +40,7 @@
         echo ""
         echo "Enter your password to start the building process"
         echo ""
-        sudo mkarchiso -v -w ~/work -o ~/ISOs ~/personal/iso/test
+        sudo mkarchiso -v -w ~/work -o ~/ISOs ~/Personal/iso/test
 
     ;;
 
